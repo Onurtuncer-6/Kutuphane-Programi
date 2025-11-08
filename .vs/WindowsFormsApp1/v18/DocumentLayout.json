@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Onur Tuncer\\Projelerim\\2025\\Okul \u0130\u00E7in K\u00FCt\u00FCphane Program\u0131 C#\\K\u00FCt\u00FCphane Program\u0131\\K\u00FCt\u00FCphane Program\u0131\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7089E29C-C570-47AD-8BF6-269B1427356E}|WindowsFormsApp1\\WindowsFormsApp1.csproj|e:\\onur tuncer\\projelerim\\2025\\okul \u0130\u00E7in k\u00FCt\u00FCphane program\u0131 c#\\k\u00FCt\u00FCphane program\u0131\\k\u00FCt\u00FCphane program\u0131\\windowsformsapp1\\windowsformsapp1\\settings\\yedekle\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7089E29C-C570-47AD-8BF6-269B1427356E}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\settings\\yedekle\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7089E29C-C570-47AD-8BF6-269B1427356E}|WindowsFormsApp1\\WindowsFormsApp1.csproj|e:\\onur tuncer\\projelerim\\2025\\okul \u0130\u00E7in k\u00FCt\u00FCphane program\u0131 c#\\k\u00FCt\u00FCphane program\u0131\\k\u00FCt\u00FCphane program\u0131\\windowsformsapp1\\windowsformsapp1\\settings\\yedekle\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7089E29C-C570-47AD-8BF6-269B1427356E}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\settings\\yedekle\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "E:\\Onur Tuncer\\Projelerim\\2025\\Okul \u0130\u00E7in K\u00FCt\u00FCphane Program\u0131 C#\\K\u00FCt\u00FCphane Program\u0131\\K\u00FCt\u00FCphane Program\u0131\\WindowsFormsApp1\\WindowsFormsApp1\\Settings\\Yedekle\\Settings.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Settings\\Yedekle\\Settings.cs",
+              "ToolTip": "E:\\Onur Tuncer\\Projelerim\\2025\\Okul \u0130\u00E7in K\u00FCt\u00FCphane Program\u0131 C#\\K\u00FCt\u00FCphane Program\u0131\\K\u00FCt\u00FCphane Program\u0131\\WindowsFormsApp1\\WindowsFormsApp1\\Settings\\Yedekle\\Settings.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Settings\\Yedekle\\Settings.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAuwJIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:08:58.183Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Settings.cs [Tasar\u0131m]",
+              "DocumentMoniker": "E:\\Onur Tuncer\\Projelerim\\2025\\Okul \u0130\u00E7in K\u00FCt\u00FCphane Program\u0131 C#\\K\u00FCt\u00FCphane Program\u0131\\K\u00FCt\u00FCphane Program\u0131\\WindowsFormsApp1\\WindowsFormsApp1\\Settings\\Yedekle\\Settings.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Settings\\Yedekle\\Settings.cs",
+              "ToolTip": "E:\\Onur Tuncer\\Projelerim\\2025\\Okul \u0130\u00E7in K\u00FCt\u00FCphane Program\u0131 C#\\K\u00FCt\u00FCphane Program\u0131\\K\u00FCt\u00FCphane Program\u0131\\WindowsFormsApp1\\WindowsFormsApp1\\Settings\\Yedekle\\Settings.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WindowsFormsApp1\\Settings\\Yedekle\\Settings.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T15:14:45.655Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

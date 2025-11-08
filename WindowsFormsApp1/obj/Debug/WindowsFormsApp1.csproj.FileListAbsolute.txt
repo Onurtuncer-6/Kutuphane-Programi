@@ -1,0 +1,192 @@
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form1.resources
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form2.resources
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitap_Ekle.resources
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.KitapKaldır.resources
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitap_Düzenle.resources
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Bütün_Kitaplar.resources
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitap_Alan_Öğrenciler.resources
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Geri_Getirilmeyen_Kitaplar.resources
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kategori_Ekle.resources
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kategori_Kaldır.resources
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form3.resources
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitaplar.resources
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Misafir_Kitap.Kategoriler.resources
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Misafir_Kitap.Kitap_Bilgileri.resources
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form4.resources
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form5.resources
+C:\Users\onurt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form6.resources
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form1.resources
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form2.resources
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form3.resources
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form4.resources
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form5.resources
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form6.resources
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Bütün_Kitaplar.resources
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Geri_Getirilmeyen_Kitaplar.resources
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kategori_Kaldır.resources
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kategori_Ekle.resources
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.KitapKaldır.resources
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitaplar.resources
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitap_Alan_Öğrenciler.resources
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitap_Düzenle.resources
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitap_Ekle.resources
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Misafir_Kitap.Kategoriler.resources
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Misafir_Kitap.Kitap_Bilgileri.resources
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Onur Tuncer\Kodlama\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form1.resources
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form2.resources
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form3.resources
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form4.resources
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form5.resources
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form6.resources
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Bütün_Kitaplar.resources
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Geri_Getirilmeyen_Kitaplar.resources
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kategori_Kaldır.resources
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kategori_Ekle.resources
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitap_Ver.UserControl1.resources
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.KitapKaldır.resources
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitaplar.resources
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitap_Alan_Öğrenciler.resources
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitap_Düzenle.resources
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitap_Ekle.resources
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Misafir_Kitap.Kategoriler.resources
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Misafir_Kitap.Kitap_Bilgileri.resources
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitapp_Ver.resources
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form1.resources
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form2.resources
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form3.resources
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form4.resources
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form5.resources
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form6.resources
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Bütün_Kitaplar.resources
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Geri_Getirilmeyen_Kitaplar.resources
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kategori_Kaldır.resources
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kategori_Ekle.resources
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitap_Ver.UserControl1.resources
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.KitapKaldır.resources
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitaplar.resources
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitapp_Ver.resources
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitap_Alan_Öğrenciler.resources
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitap_Düzenle.resources
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitap_Ekle.resources
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitap_Teslim_AL.resources
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Misafir_Kitap.Kategoriler.resources
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Misafir_Kitap.Kitap_Bilgileri.resources
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitap_Teslim_AL.resources
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form1.resources
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form2.resources
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form3.resources
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form4.resources
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form5.resources
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form6.resources
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Bütün_Kitaplar.resources
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Geri_Getirilmeyen_Kitaplar.resources
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kategori_Kaldır.resources
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kategori_Ekle.resources
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitap_Ver.UserControl1.resources
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.KitapKaldır.resources
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitaplar.resources
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitapp_Ver.resources
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitap_Alan_Öğrenciler.resources
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitap_Düzenle.resources
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitap_Ekle.resources
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitap_Teslim_AL.resources
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Misafir_Kitap.Kategoriler.resources
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Misafir_Kitap.Kitap_Bilgileri.resources
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Settings.Yedekle.Settings.resources
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Settings.Show_Usb_Devices.Usb_Devices.resources
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form1.resources
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form2.resources
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form3.resources
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form4.resources
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form5.resources
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FORMLAR.Form6.resources
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Bütün_Kitaplar.resources
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Geri_Getirilmeyen_Kitaplar.resources
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kategori_Kaldır.resources
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kategori_Ekle.resources
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitap_Ver.UserControl1.resources
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.KitapKaldır.resources
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitaplar.resources
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitapp_Ver.resources
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitap_Alan_Öğrenciler.resources
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitap_Düzenle.resources
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitap_Ekle.resources
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Kitap_Teslim_AL.resources
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Misafir_Kitap.Kategoriler.resources
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KULLANICI_DENETİMİ.Misafir_Kitap.Kitap_Bilgileri.resources
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Settings.Show_Usb_Devices.Usb_Devices.resources
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Settings.Yedekle.Settings.resources
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Settings.Show_Usb_Devices.Usb_Devices.resources
+E:\Onur Tuncer\Projelerim\2025\Okul İçin Kütüphane Programı C#\Kütüphane Programı\Kütüphane Programı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Settings.Yedekle.Settings.resources
