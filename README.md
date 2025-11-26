@@ -14,8 +14,8 @@ Okul kütüphanesi için geliştirilmiş kitap takip programı.
 
 ## Ekran Görüntüleri
 
-![Ana Menü](Images/ana-menu.png)
-![Kitap Listesi](Images/kitap-listesi.png)
+![Ana Menü](Images/anasayfa.png)
+![Kitap Listesi](Images/bütün-kitap.png)
 ![Kitap Ekleme](Images/kitap-ekle.png)
-![Öğrenci Listesi](Images/ogrenci-listesi.png)
-![Yedekleme Ekranı](Images/yedekleme.png)
+![Öğrenci Ödünç Ver](Images/kitap-ver.png)
+![Yedekleme Ekranı](Images/yedekle.png)
